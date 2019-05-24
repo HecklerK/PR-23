@@ -121,6 +121,7 @@ namespace PR_23
             P1.Source = new BitmapImage(new Uri("Resource/asia.jpg", UriKind.Relative));
             L1.Content = "Азия";
             SA.IsEnabled = true;
+            SA2.IsEnabled = true;
         }
 
         private void MenuItem_Click_4(object sender, RoutedEventArgs e)
@@ -128,6 +129,7 @@ namespace PR_23
             P1.Source = new BitmapImage(new Uri("Resource/afrika.jpg", UriKind.Relative));
             L1.Content = "Африка";
             SA.IsEnabled = true;
+            SA2.IsEnabled = true;
         }
 
         private void MenuItem_Click_5(object sender, RoutedEventArgs e)
@@ -135,6 +137,7 @@ namespace PR_23
             P1.Source = new BitmapImage(new Uri("Resource/sa.jpg", UriKind.Relative));
             L1.Content = "Северная Америка";
             SA.IsEnabled = true;
+            SA2.IsEnabled = true;
         }
 
         private void MenuItem_Click_6(object sender, RoutedEventArgs e)
@@ -142,6 +145,7 @@ namespace PR_23
             P1.Source = new BitmapImage(new Uri("Resource/ua.jpg", UriKind.Relative));
             L1.Content = "Южная Америка";
             SA.IsEnabled = true;
+            SA2.IsEnabled = true;
         }
 
         private void MenuItem_Click_7(object sender, RoutedEventArgs e)
@@ -149,6 +153,7 @@ namespace PR_23
             P1.Source = new BitmapImage(new Uri("Resource/a.jpg", UriKind.Relative));
             L1.Content = "Австралия";
             SA.IsEnabled = true;
+            SA2.IsEnabled = true;
         }
     }
 }
