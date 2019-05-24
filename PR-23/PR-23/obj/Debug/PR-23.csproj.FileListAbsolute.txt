@@ -1,0 +1,13 @@
+c:\users\kbstudentint\documents\visual studio 2013\Projects\PR-23\PR-23\bin\Debug\PR-23.exe.config
+c:\users\kbstudentint\documents\visual studio 2013\Projects\PR-23\PR-23\bin\Debug\PR-23.exe
+c:\users\kbstudentint\documents\visual studio 2013\Projects\PR-23\PR-23\bin\Debug\PR-23.pdb
+c:\users\kbstudentint\documents\visual studio 2013\Projects\PR-23\PR-23\obj\Debug\PR-23.csprojResolveAssemblyReference.cache
+c:\users\kbstudentint\documents\visual studio 2013\Projects\PR-23\PR-23\obj\Debug\MainWindow.baml
+c:\users\kbstudentint\documents\visual studio 2013\Projects\PR-23\PR-23\obj\Debug\MainWindow.g.cs
+c:\users\kbstudentint\documents\visual studio 2013\Projects\PR-23\PR-23\obj\Debug\App.g.cs
+c:\users\kbstudentint\documents\visual studio 2013\Projects\PR-23\PR-23\obj\Debug\PR-23_MarkupCompile.cache
+c:\users\kbstudentint\documents\visual studio 2013\Projects\PR-23\PR-23\obj\Debug\PR-23.g.resources
+c:\users\kbstudentint\documents\visual studio 2013\Projects\PR-23\PR-23\obj\Debug\PR_23.Properties.Resources.resources
+c:\users\kbstudentint\documents\visual studio 2013\Projects\PR-23\PR-23\obj\Debug\PR-23.csproj.GenerateResource.Cache
+c:\users\kbstudentint\documents\visual studio 2013\Projects\PR-23\PR-23\obj\Debug\PR-23.exe
+c:\users\kbstudentint\documents\visual studio 2013\Projects\PR-23\PR-23\obj\Debug\PR-23.pdb
